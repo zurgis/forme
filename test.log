@@ -1,0 +1,55 @@
+2019-09-14 23:10:47,231:__main__:Tried to divide by zero
+2019-09-14 23:11:38,542:__main__:Tried to divide by zero
+Traceback (most recent call last):
+  File "c:/Programming/Learnings/logging1.py", line 23, in divide
+    result = x / y
+ZeroDivisionError: division by zero
+2019-09-14 23:12:58,929:__main__:Tried to divide by zero
+Traceback (most recent call last):
+  File "c:/Programming/Learnings/logging1.py", line 26, in divide
+    result = x / y
+ZeroDivisionError: division by zero
+2019-09-14 23:13:51,105:__main__:Tried to divide by zero
+Traceback (most recent call last):
+  File "c:/Programming/Learnings/logging1.py", line 27, in divide
+    result = x / y
+ZeroDivisionError: division by zero
+2019-09-15 11:09:00,270:__main__:Tried to divide by zero
+Traceback (most recent call last):
+  File "c:/Programming/Learnings/logging1.py", line 27, in divide
+    result = x / y
+ZeroDivisionError: division by zero
+Tried to divide by zero
+Traceback (most recent call last):
+  File "c:/Programming/Learnings/logging1.py", line 27, in divide
+    result = x / y
+ZeroDivisionError: division by zero
+2019-09-15 11:19:49,874:__main__:Add: 10 + 0 = 10
+2019-09-15 11:19:49,874:__main__:Tried to divide by zero
+Traceback (most recent call last):
+  File "c:/Programming/Learnings/logging1.py", line 28, in divide
+    result = x / y
+ZeroDivisionError: division by zero
+2019-09-15 11:19:49,895:__main__:Div: 10 / 0 = None
+2019-09-15 11:20:01,470:__main__:Add: 10 + 0 = 10
+2019-09-15 11:20:01,471:__main__:Tried to divide by zero
+Traceback (most recent call last):
+  File "c:/Programming/Learnings/logging1.py", line 28, in divide
+    result = x / y
+ZeroDivisionError: division by zero
+2019-09-15 11:20:01,489:__main__:Div: 10 / 0 = None
+2019-09-15 11:29:35,264:__main__:Tried to divide by zero
+Traceback (most recent call last):
+  File "c:/Programming/Learnings/logging1.py", line 27, in divide
+    result = x / y
+ZeroDivisionError: division by zero
+2019-09-15 11:30:05,363:__main__:Tried to divide by zero
+Traceback (most recent call last):
+  File "c:/Programming/Learnings/logging1.py", line 27, in divide
+    result = x / y
+ZeroDivisionError: division by zero
+2019-09-15 11:30:28,929:__main__:Tried to divide by zero
+Traceback (most recent call last):
+  File "c:/Programming/Learnings/logging1.py", line 27, in divide
+    result = x / y
+ZeroDivisionError: division by zero

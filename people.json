@@ -1,0 +1,19 @@
+{
+  "people": [
+    {
+      "name": "John Smith",
+      "phone": "666-666-6666",
+      "emails": [
+        "johnsmith@email.com",
+        "john.smith@email.com"
+      ],
+      "has_license": false
+    },
+    {
+      "name": "Dean Winchester",
+      "phone": "666-666-6666",
+      "emails": null,
+      "has_license": true
+    }
+  ]
+}
